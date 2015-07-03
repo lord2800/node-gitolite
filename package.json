@@ -1,0 +1,27 @@
+{
+  "name": "node-gitolite",
+  "version": "0.0.1",
+  "description": "A gitolite manager module for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lord2800/node-gitolite.git"
+  },
+  "keywords": [
+    "git",
+    "gitolite",
+    "manager"
+  ],
+  "author": "lord2800",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lord2800/node-gitolite/issues"
+  },
+  "homepage": "https://github.com/lord2800/node-gitolite",
+  "dependencies": {
+    "nodegit": "^0.4.1"
+  }
+}
