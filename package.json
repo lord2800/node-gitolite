@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lord2800/node-gitolite",
   "dependencies": {
-    "nodegit": "^0.4.1"
+    "bluebird": "^2.9.32",
+    "glob": "^5.0.13"
   }
 }
