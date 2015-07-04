@@ -24,5 +24,8 @@
   "dependencies": {
     "bluebird": "^2.9.32",
     "glob": "^5.0.13"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
   }
 }
