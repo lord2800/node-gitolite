@@ -10,3 +10,6 @@ gitolite.load('/path/to/gitolite-admin').then(function (admin) {
 	// manage users/groups/repos
 });
 ```
+
+# NOTABLE LIMITATIONS
+* Doesn't handle include cycles. Too lazy to make it work as I don't use it. PRs welcome!
